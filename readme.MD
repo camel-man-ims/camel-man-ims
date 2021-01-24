@@ -18,4 +18,4 @@
 
 [![camel-man-ims github stats](https://github-readme-stats.vercel.app/api?username=camel-man-ims&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Generic badge](https://img.shields.io/badge/version-1.1.1-green.svg)
+![Generic badge](https://img.shields.io/badge/spring.svg)
